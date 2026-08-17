@@ -8,5 +8,6 @@ I like building things that quietly do a real job: lead generation engines, chat
 
 **Currently:** open to developer roles, freelance or full time
 
-Portfolio: add your GitHub Pages link here once it is live
-Upwork: add your profile link here
+Portfolio: 0xhimo75.github.io
+Upwork: https://www.upwork.com/agencies/1480874635887566848/
+https://www.upwork.com/freelancers/~010079858c222c61e3?viewMode=1&mp_source=share
